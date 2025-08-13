@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'cmtsdb.cpoo0wcy2mmg.ap-south-1.rds.amazonaws.com',
-	'username' => 'admin',
-	'password' => 'admin123',
-	'database' => 'college_mgmt',
+	'hostname' => 'supdbserver.mysql.database.azure.com',
+	'username' => 'supriyamigtrain',
+	'password' => 'Verity@123',
+	'database' => 'new_schema',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
